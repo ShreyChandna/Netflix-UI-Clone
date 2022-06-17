@@ -1,0 +1,2 @@
+ece86dc1531cec5e10905da87a1dea24 - api key
+https://api.themoviedb.org/3/movie/550?api_key=ece86dc1531cec5e10905da87a1dea24 - api key rqst
